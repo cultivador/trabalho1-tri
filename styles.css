@@ -138,7 +138,7 @@ h2 {
 }
 
 .form-control {
-    background-color:pink;/* #F1EDEF*/
+    background-color:Violet;/* #F1EDEF*/
 }
 .menu-acessibilidade{
     position: fixed;
@@ -185,7 +185,7 @@ h2 {
 .alto-contraste .formulario button,
 .alto-contraste .btn-primary{
     background-color: var(--alto-contraste-link);
-    color:pink;/* #FAF4F4*/
+    color:Violet;/* #FAF4F4*/
 }
 
 .alto-contraste #tropicalia {
