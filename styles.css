@@ -9,8 +9,8 @@
 }
 
 body {
-    font-size: 1rem;
-    font-family: 'Montserrat';
+    background-color: var(--cinza-claro);
+    color: var(--azul-claro);
 }
 
 header {
