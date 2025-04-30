@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color:pink:/* #FAF4F4*/
+    color:Violet:/* #FAF4F4*/
     font-weight: 600;
 }
 
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color:Violet;/* #CB6D43*/
+    background-color var(--laranja-claro);
     border: none;
     font-weight: bold;
 }
