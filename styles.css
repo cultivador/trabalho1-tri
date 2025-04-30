@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: Violet;/* #FAF4F4*/
 
 }
 
@@ -132,13 +132,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color:Violet;/* #CB6D43*/
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color:pink;/* #F1EDEF*/
 }
 .menu-acessibilidade{
     position: fixed;
